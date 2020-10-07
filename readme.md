@@ -23,8 +23,8 @@
 
 	    ...
         dependencies {
-    		compile 'com.adform:adform-header-bidding-sdk:1.0.0'
-    		compile 'com.google.android.gms:play-services-ads:8.4.0'
+    		implementation 'com.adform:adform-header-bidding-sdk:2.17.0'
+    	        implementation 'com.google.android.gms:play-services-ads:18.2.0'
         }
         ...
         
